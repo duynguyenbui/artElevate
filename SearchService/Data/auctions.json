@@ -1,0 +1,102 @@
+[
+  {
+    "id": "155225c1-4448-4066-9886-6786536e05ea",
+    "createdAt": "2023-12-18T07:01:04.877194Z",
+    "updatedAt": "2023-12-18T07:01:04.877194Z",
+    "auctionEnd": "2024-01-12T07:01:04.877194Z",
+    "seller": "alice",
+    "winner": null,
+    "status": "Live",
+    "reservePrice": 50000,
+    "soldAmount": null,
+    "currentHighBid": null,
+    "artist": "Pablo Picasso",
+    "name": "Guernica",
+    "description": "\"Guernica\" by Pablo Picasso is a powerful anti-war painting depicting the horrors of the Spanish Civil War.",
+    "height": 150,
+    "width": 170,
+    "medium": "Oil on canvas",
+    "year": 1937,
+    "imageUrl": [
+      "https://res.cloudinary.com/dsceyl414/image/upload/v1702803915/uciv4jjcyinm2tx8mgyv.jpg",
+      "https://res.cloudinary.com/dsceyl414/image/upload/v1702803914/qv6bsrl917mkxf9beiq3.jpg",
+      "https://res.cloudinary.com/dsceyl414/image/upload/v1702803915/nbkadvjemn2gttyxd5pv.jpg",
+      "https://res.cloudinary.com/dsceyl414/image/upload/v1702803915/kfqovhznmuokhu2s9cnd.jpg"
+    ]
+  },
+  {
+    "id": "afbee524-5972-4075-8800-7d1f9d7b0a0c",
+    "createdAt": "2023-12-18T07:01:04.87698Z",
+    "updatedAt": "2023-12-18T07:01:04.87698Z",
+    "auctionEnd": "2023-12-28T07:01:04.87704Z",
+    "seller": "bob",
+    "winner": null,
+    "status": "Live",
+    "reservePrice": 20000,
+    "soldAmount": null,
+    "currentHighBid": null,
+    "artist": "Leonardo da Vinci",
+    "name": "Mona Lisa",
+    "description": "\"Mona Lisa\" by Leonardo da Vinci, known for its enigmatic smile, is showcased at the Louvre Museum in Paris.",
+    "height": 170,
+    "width": 150,
+    "medium": "Oil on canvas",
+    "year": 1506,
+    "imageUrl": [
+      "https://res.cloudinary.com/dsceyl414/image/upload/v1702803770/cmjq2kgom57sn7kwgfhm.jpg",
+      "https://res.cloudinary.com/dsceyl414/image/upload/v1702803770/skjhtwvbcvja0qospmiz.jpg",
+      "https://res.cloudinary.com/dsceyl414/image/upload/v1702803770/qc7na9bue65ftpsuao8m.jpg",
+      "https://res.cloudinary.com/dsceyl414/image/upload/v1702803770/ryetfnym1uqs75fnwqii.jpg"
+    ]
+  },
+  {
+    "id": "c8c3ec17-01bf-49db-82aa-1ef80b833a9f",
+    "createdAt": "2023-12-18T07:01:04.877193Z",
+    "updatedAt": "2023-12-18T07:01:04.877193Z",
+    "auctionEnd": "2024-01-02T07:01:04.877194Z",
+    "seller": "alice",
+    "winner": null,
+    "status": "Live",
+    "reservePrice": 30000,
+    "soldAmount": null,
+    "currentHighBid": null,
+    "artist": "Vincent van Gogh",
+    "name": "Starry Night",
+    "description": "\"Starry Night\" by Vincent van Gogh, renowned for its vibrant colors, is a masterpiece in art history.",
+    "height": 140,
+    "width": 160,
+    "medium": "Oil on canvas",
+    "year": 1889,
+    "imageUrl": [
+      "https://res.cloudinary.com/dsceyl414/image/upload/v1702803970/oijo6dqzqo5txf5fbupx.jpg",
+      "https://res.cloudinary.com/dsceyl414/image/upload/v1702803970/rvwwgmmaojkjj2slbt4l.jpg",
+      "https://res.cloudinary.com/dsceyl414/image/upload/v1702803970/lvjjrcstimo7repnptbw.jpg",
+      "https://res.cloudinary.com/dsceyl414/image/upload/v1702803970/t3npkhw8cn0en8jzaarn.jpg"
+    ]
+  },
+  {
+    "id": "466e4744-4dc5-4987-aae0-b621acfc5e39",
+    "createdAt": "2023-12-18T07:01:04.877195Z",
+    "updatedAt": "2023-12-18T07:01:04.877195Z",
+    "auctionEnd": "2023-12-19T07:01:04.877195Z",
+    "seller": "bob",
+    "winner": null,
+    "status": "Live",
+    "reservePrice": 25000,
+    "soldAmount": null,
+    "currentHighBid": null,
+    "artist": "Edvard Munch",
+    "name": "The Scream",
+    "description": "\"The Scream\" by Edvard Munch is an iconic expressionist painting depicting existential angst.",
+    "height": 120,
+    "width": 150,
+    "medium": "Oil on canvas",
+    "year": 1893,
+    "imageUrl": [
+      "https://res.cloudinary.com/dsceyl414/image/upload/v1702804058/ojche6blcx2b4wukdfq8.jpg",
+      "https://res.cloudinary.com/dsceyl414/image/upload/v1702804058/md9ioxhtdtyxb91ez4to.jpg",
+      "https://res.cloudinary.com/dsceyl414/image/upload/v1702804058/imexbowcwxnmfel55gi1.jpg",
+      "https://res.cloudinary.com/dsceyl414/image/upload/v1702804058/kwsct5cltazftanvtvxv.jpg"
+    ]
+  }
+]
